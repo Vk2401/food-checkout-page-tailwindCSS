@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.io/Vk2401/food-checkout-page-tailwindCSS/",
+  "homepage": "https://vk2401.github.io/food-checkout-page-tailwindCSS/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
